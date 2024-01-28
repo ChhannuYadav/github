@@ -2,12 +2,12 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+  This is my feature2 branch
 }
 
 Initial Security()
 {
- //Sample Code
+ Print ('This is my feature2 branch')
 }
 
 
